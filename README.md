@@ -17,9 +17,10 @@ A smart, Streamlit-based voice-controlled remote interface that listens to your 
 ---
 
 ## 📸 Demo
-live link: https://ai-voice-remote.streamlit.app/
+live link: [https://ai-voice-remote.streamlit.app/](https://voice-remote.onrender.com/)
 
-![image](https://github.com/user-attachments/assets/16628779-25a3-426d-ab16-9c21378a8157)
+<img width="2524" height="1247" alt="image" src="https://github.com/user-attachments/assets/960ac652-f088-4f86-9f57-5a4a6c92ecd6" />
+
 
 
 ---
