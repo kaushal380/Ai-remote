@@ -111,12 +111,13 @@ All aliases must map to a valid channel in the catalogue. The UI will help valid
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz)
 - [Pandas](https://pandas.pydata.org/)
+- [docker](https://hub.docker.com)
 
 ---
 
 ## 🙏 Acknowledgements
 
-Special thanks to the open-source libraries that made this possible. Built with ❤️ by [Your Name].
+Special thanks to the open-source libraries that made this possible. Built with ❤️ by Kaushal Sambanna.
 
 ---
 
