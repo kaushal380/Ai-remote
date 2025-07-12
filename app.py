@@ -64,4 +64,5 @@ def save_transcript():
 
 if __name__ == "__main__":
     # Make sure you run on port 5000 and debug=True so you see errors in console
-    app.run(debug=True, port=5000)
+    app.run(host="0.0.0.0", port=5000)
+

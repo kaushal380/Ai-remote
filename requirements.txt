@@ -1,6 +1,2 @@
-streamlit
-pandas
-speechrecognition
+Flask==2.3.3
 rapidfuzz
-PyAudio
-flask
