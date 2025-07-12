@@ -3,3 +3,4 @@ pandas
 speechrecognition
 rapidfuzz
 PyAudio
+flask
